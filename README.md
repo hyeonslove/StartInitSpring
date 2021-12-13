@@ -83,3 +83,6 @@ Available Elements -> <output root> move refactor
     
     -mybatis mapper
     http://localhost:8080/account
+
+    -Swagger URL
+    http://localhost:8080/swagger-ui.html
